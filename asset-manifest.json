@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/guess-the-word-bootcamp/static/css/main.bce5a966.css",
+    "main.js": "/guess-the-word-bootcamp/static/js/main.ff3cb438.js",
+    "static/media/brown-paper.jpg": "/guess-the-word-bootcamp/static/media/brown-paper.d28c09159a52cd5f9abf.jpg",
+    "static/media/background.jpg": "/guess-the-word-bootcamp/static/media/background.2cf84fd88466ef4b45e7.jpg",
+    "static/media/summer_4.png": "/guess-the-word-bootcamp/static/media/summer_4.3eae748e6b64efc4e470.png",
+    "static/media/summer_5.png": "/guess-the-word-bootcamp/static/media/summer_5.fde98878dad945fe028b.png",
+    "static/media/summer_1.png": "/guess-the-word-bootcamp/static/media/summer_1.50dd41243250b11d6ac5.png",
+    "static/media/summer_2.png": "/guess-the-word-bootcamp/static/media/summer_2.d8853308a77d550de98e.png",
+    "static/media/summer_6.png": "/guess-the-word-bootcamp/static/media/summer_6.00d916cadd4df1f7f8ed.png",
+    "static/media/summer_3.png": "/guess-the-word-bootcamp/static/media/summer_3.7790c3068ca5cc1d885a.png",
+    "static/media/summer_7.png": "/guess-the-word-bootcamp/static/media/summer_7.c170cdebca5ff3898354.png",
+    "static/media/summer_8.png": "/guess-the-word-bootcamp/static/media/summer_8.778692085bee96fb0c28.png",
+    "static/media/summer_9.png": "/guess-the-word-bootcamp/static/media/summer_9.70161535918371384ac6.png",
+    "static/media/summer_0.png": "/guess-the-word-bootcamp/static/media/summer_0.c1c505aa2d0fdf2dfbb3.png",
+    "static/media/winter_1.png": "/guess-the-word-bootcamp/static/media/winter_1.53e1f2ba1b5618e3a351.png",
+    "static/media/winter_2.png": "/guess-the-word-bootcamp/static/media/winter_2.242a6767588c927064a7.png",
+    "static/media/winter_3.png": "/guess-the-word-bootcamp/static/media/winter_3.4f0add39d1568eb44569.png",
+    "static/media/winter_7.png": "/guess-the-word-bootcamp/static/media/winter_7.e5a38b25402be292ac09.png",
+    "static/media/winter_5.png": "/guess-the-word-bootcamp/static/media/winter_5.3d7ef945fa2fe2af3bd7.png",
+    "static/media/winter_4.png": "/guess-the-word-bootcamp/static/media/winter_4.03c07b032f44bc6f3e03.png",
+    "static/media/winter_6.png": "/guess-the-word-bootcamp/static/media/winter_6.68eceb2f6630accb36a2.png",
+    "static/media/winter_8.png": "/guess-the-word-bootcamp/static/media/winter_8.752ec4f4f4ea5181bfe4.png",
+    "static/media/winter_9.png": "/guess-the-word-bootcamp/static/media/winter_9.aa47311555b06c007f7a.png",
+    "static/media/winter_0.png": "/guess-the-word-bootcamp/static/media/winter_0.da0b7981daedaecec5e2.png",
+    "index.html": "/guess-the-word-bootcamp/index.html",
+    "main.bce5a966.css.map": "/guess-the-word-bootcamp/static/css/main.bce5a966.css.map",
+    "main.ff3cb438.js.map": "/guess-the-word-bootcamp/static/js/main.ff3cb438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce5a966.css",
+    "static/js/main.ff3cb438.js"
+  ]
+}
